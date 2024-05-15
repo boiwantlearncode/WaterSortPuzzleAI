@@ -1,6 +1,6 @@
 # WaterSortPuzzle
 
-![WaterSortPuzzle](assets/testtube.png)
+<img src="assets/testtube.png" alt="WaterSortPuzzle" width="200"/>
 
 A creation of [Brandon](https://www.linkedin.com/in/brandonchiu12/), [Isa](https://www.linkedin.com/in/isa-bin-mohamed-yamin-71a12018b/) and [Thiru](https://www.linkedin.com/in/jayakumar-thirunithiyan-6778461b4/).
 
